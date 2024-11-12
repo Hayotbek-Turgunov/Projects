@@ -1,7 +1,9 @@
 import "./Moxista.css"
 function Moxista() {
   return (
-    <div>Moxista</div>
+    <div>
+<h1>Abdullajanova Moxista</h1>
+    </div>
   )
 }
 
